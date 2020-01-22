@@ -29,6 +29,7 @@
     "npm-ls-scripts": "^0.1.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.1",
+    "vue-swatches": "^1.0.4",
     "vuex": "^3.0.1",
     "vuex-webextensions": "^1.3.0",
     "webextension-polyfill": "^0.3.1"
